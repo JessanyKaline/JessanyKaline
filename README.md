@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Full Stack Developer | Atualmente especializando na área de Front-end com React.
+- 🔭 Full Stack Developer 
 - 🏳️‍🌈 Sou uma mulher Cis Parda e lésbica 
 - 😄 Pronomes: (ela/ dela)
 
