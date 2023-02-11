@@ -16,7 +16,7 @@
   <img align="center" alt="Jessany-JAVA" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Jessany-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jessany-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jessany-aws" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-plain.svg">
+  <img align="center" alt="Jessany-aws" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloud/cloud-plain.svg">
   <img align="center" alt="Jessany-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jessany-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jessany-Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
