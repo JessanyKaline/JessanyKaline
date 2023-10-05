@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Developer - com foco em back-end
+- 🔭 Developer - FullStack
 - 🏳️‍🌈 Sou uma mulher Cis Parda e lésbica 
 - 😄 Pronomes: (ela/ dela)
 
