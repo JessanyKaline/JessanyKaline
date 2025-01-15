@@ -13,6 +13,7 @@
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Jessany-Typescript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Jessany-Golang" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Jessany-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Jessany-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </br> </br>
