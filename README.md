@@ -1,4 +1,6 @@
-### Hello, I'm Jessany Kaline! Welcome!
+### Hello, I'm Jessany Kaline! 🏳️‍🌈
+
+Welcome! 🇧🇷
 
 
 - 👩🏽‍💻 Software Engineer
