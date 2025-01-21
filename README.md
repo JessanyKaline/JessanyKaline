@@ -1,10 +1,9 @@
-### Olá, Eu sou a Jessany Kaline!
+### Hello, I'm Jessany Kaline! Welcome!
 
 
+- 👩🏽‍💻 Software Engineer
+- 🔭 Developer - FullStack (Expertise in Back-end)
 
-- 🔭 Developer - FullStack (Back-end)
-- 🏳️‍🌈 Sou uma mulher Cis Parda e lésbica 
-- 😄 Pronomes: (ela/ dela)
 
 <div align="center">
   <a href="https://github.com/JessanyKaline"> 
